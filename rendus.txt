@@ -1,0 +1,42 @@
+	
+	Atelier - Comment fonctionne le web:
+
+	Internet est un réseau de réseaux. Il fonctionne en utilisant une technique appelée 
+	« commutation de paquets » et en s'appuyant sur des protocoles réseau normalisés que 
+	tous les ordinateurs peuvent interpréter.
+
+	1-Décrire ce qu'est internet.
+
+Avant de voir ce qu'est Internet, nous devons définir ce qu'est un « réseau ». 
+Un réseau est un groupe d'ordinateurs connectés qui sont capables de s'envoyer des données. 
+Un réseau informatique ressemble beaucoup à un cercle social, 
+c'est-à-dire à un groupe de personnes qui se connaissent toutes, échangent régulièrement des informations et coordonnent des activités.
+
+
+Internet est une vaste collection tentaculaire de réseaux qui se connectent les uns aux autres. 
+En fait, on pourrait dire que le mot « Internet » vient de ce concept : les réseaux interconnectés.
+
+Les ordinateurs se connectent entre eux et à Internet par des fils, des câbles, des ondes radio et d'autres types d'infrastructures réseau.
+
+
+Comment fonctionne Internet ?
+Il existe deux concepts fondamentaux inhérents au fonctionnement d' Internet : les paquets et les protocoles.
+
+	2-Décrire ce que sont les paquets et comment ils sont utilisés pour transférer des données.
+
+Paquets
+Dans un réseau, un paquet est un petit segment d'un message plus important.
+Chaque paquet contient à la fois des données et des informations sur ces données.
+Les paquets sont envoyés sur Internet en utilisant une technique appelée commutation de paquets.
+un protocole est un moyen normalisé d'effectuer certaines actions et de formater des données afin que deux ou plusieurs appareils puissent communiquer et se comprendre.
+
+	3-Comprendre les différences entre une page web, un serveur web, un navigateur web et un moteur de recherche.
+	-il n'a pas de définition technique formelle. Les pages web sont conçues pour être consultées avec un navigateur web
+	-Un serveur web est, soit un logiciel de service de ressources web, soit un serveur informatique qui répond à des requêtes du World Wide Web sur un réseau public ou privé, 
+	  en utilisant principalement le protocole HTTP
+	-un navigateur est un logiciel qui affiche des pages web.
+	-alors qu'un moteur de recherche est un site web qui aide les utilisateurs à trouver les pages web d'autres sites web
+	
+	4-Expliquer brièvement ce qu'est un client, serveur, adresse IP et DNS.
+	-un client est le logiciel qui envoie des demandes à un serveur.
+	-
